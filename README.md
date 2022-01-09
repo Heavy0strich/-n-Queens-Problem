@@ -1,3 +1,3 @@
 # -n-Queens-Problem
 
-Placing n queens on a chess board such that none of them kills another
+Placing n queens on an nxn chess board such that no two queens attack each other.
